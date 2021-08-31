@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sturyx
-- 👀 I’m interested in stm32. raspberry PI, Arduino, ESP32, home automation and other programable stuff
+- 👀 I’m interested in stm32, raspberry PI, Arduino, ESP32, home automation and other programable stuff
 
 
 <!---
